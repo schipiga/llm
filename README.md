@@ -1,0 +1,1 @@
+Educational project to learn LLM internals
